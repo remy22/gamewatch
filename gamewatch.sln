@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamewatch", "gamewatch\gamewatch\gamewatch.csproj", "{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "gamewatchContent", "gamewatch\gamewatchContent\gamewatchContent.contentproj", "{EB8175A3-D748-40B8-A284-09A31DBA5255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{853ADC87-40BF-43A2-8BA7-3E4C1F4803F6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{EB8175A3-D748-40B8-A284-09A31DBA5255}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EB8175A3-D748-40B8-A284-09A31DBA5255}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
